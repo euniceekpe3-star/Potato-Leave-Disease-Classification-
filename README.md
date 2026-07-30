@@ -57,3 +57,4 @@ Python · TensorFlow / Keras · Streamlit · NumPy · Pillow · Git & GitHub · 
 - peter, sarah wuwuda- 23/EG/CE/010
 - Ulaeto, Able Ene - 23/EG/CE/090
 - Edward,Joseph Bassey- 23/EG/CE/020
+- Okorie,Chidera Perpetual peace -23/EG/CE/110
