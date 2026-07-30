@@ -54,6 +54,5 @@ Python · TensorFlow / Keras · Streamlit · NumPy · Pillow · Git & GitHub · 
 - Eunice Bassey Ekpe — 23/EG/CE/030
 - Uwe, Rhoda Etim — 23/EG/CE/070
 - Odey Esther — 23/EG/CE/040
-- Ulaeto, Able Ene — 23/EG/CE/090
 - peter, sarah wuwuda- 23/EG/CE/010
-  
+- Ulaeto, Able Ene - 23/EG/CE/090
