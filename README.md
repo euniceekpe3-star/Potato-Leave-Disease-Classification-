@@ -1,4 +1,4 @@
-Pls is # Potato Leaf Disease Classification
+ # Potato Leaf Disease Classification
 
 A Convolutional Neural Network (CNN) that classifies potato leaf images as either **Healthy** or affected by **Early Blight**, deployed as an interactive web application using Streamlit.
 
