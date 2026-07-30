@@ -55,4 +55,5 @@ Python · TensorFlow / Keras · Streamlit · NumPy · Pillow · Git & GitHub · 
 - Uwe, Rhoda Etim — 23/EG/CE/070
 - Odey Esther — 23/EG/CE/040
 - Ulaeto, Able Ene — 23/EG/CE/090
-"this read me file and how to l upload on github with thishttps://kzypdujishzchxpf3kgp4t.streamlit.app/
+- peter, sarah wuwuda- 23/EG/CE/010
+  
