@@ -58,3 +58,4 @@ Python · TensorFlow / Keras · Streamlit · NumPy · Pillow · Git & GitHub · 
 - Edward,Joseph Bassey- 23/EG/CE/020
 - Okorie,Chidera Perpetual peace -23/EG/CE/110
 - Ekanem Esther Sunday - 23/EG/CE/050
+- Uwe,Rhoda Etim 
